@@ -9,6 +9,8 @@ I believe that my already acquired skills and those that I was able to acquire i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-elizarov-805914152/)&nbsp;&nbsp;
+
 
 <!--
 **elizalex/elizalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
