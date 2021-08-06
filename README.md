@@ -7,6 +7,9 @@ I am pretty motivated, persistent and accustomed to achieving my goals and the d
 
 I believe that my already acquired skills and those that I was able to acquire in the future will be useful not only for me, but for your company!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **elizalex/elizalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
