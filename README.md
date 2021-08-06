@@ -7,7 +7,7 @@ I am pretty motivated, persistent and accustomed to achieving my goals and the d
 
 I believe that my already acquired skills and those that I was able to acquire in the future will be useful not only for me, but for your company!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <a href="https://github.com/elizalex/github-readme-stats"> -->
