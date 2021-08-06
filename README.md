@@ -1,4 +1,5 @@
-### Hi there! 👋  My name is Aleksandr Elizarov.
+### Hi there! 👋  
+### My name is Aleksandr Elizarov.
 
 My previous work experience includes over 10 years of work in commercial companies in management positions. I have experience in managing companies, implementing large development projects, developing company business processes and creating effective teams focused on achieving results. I work comfortably both independently and as a member of the project team.
 
