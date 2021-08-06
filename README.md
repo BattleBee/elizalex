@@ -9,10 +9,13 @@ I believe that my already acquired skills and those that I was able to acquire i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/elizalex/github-readme-stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact&theme=material-palenigh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- <a href="https://github.com/elizalex/github-readme-stats"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.elizalex.vercel.app/api/top-langs/?username=elizalex&layout=compact&theme=material-palenight" />
-</a>
+<!--   <img align="center" src="https://github-readme-stats.elizalex.vercel.app/api/top-langs/?username=elizalex&layout=compact&theme=material-palenight" /> -->
+<!-- </a> -->
 
 <h4>You can find me here:</h4>
 
