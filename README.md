@@ -4,6 +4,7 @@ My previous work experience includes over 10 years of work in commercial compani
 
 Recently, I got so carried away with programming in the Java language that I decided to develop and realize myself in this direction.
 I am pretty motivated, persistent and accustomed to achieving my goals and the designated result. My constant striving for professional development allows me to quickly acquire the necessary skills and expand the area of professional competence.
+
 I believe that my already acquired skills and those that I was able to acquire in the future will be useful not only for me, but for your company!
 
 <!--
