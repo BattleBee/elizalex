@@ -9,7 +9,11 @@ I believe that my already acquired skills and those that I was able to acquire i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h4>You can find me here:</h4>
+
 [![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-elizarov-805914152/)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/elizzalex)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:a.elyzarov@gmail.com)&nbsp;&nbsp;
 
 
 <!--
