@@ -1,5 +1,5 @@
 #### Hi there! 👋  
-#### My name is Aleksandr Elizarov.
+#### My name is Aleksandr.
 
 Recently, I carried away with programming in the Java and I decide to develop and realize myself in this direction.
 
