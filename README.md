@@ -1,12 +1,7 @@
 #### Hi there! 👋  
 #### My name is Aleksandr.
 
-Recently, I carried away with programming in the Java and I decide to develop and realize myself in this direction.
-
-My previous work experience includes over 10 years of work in commercial companies in management positions. I have experience in managing companies, implementing large development projects, developing company business processes and creating effective teams focused on achieving results. I work comfortably both independently and as a member of the project team.
-
-I am pretty motivated, persistent and accustomed to achieving my goals and the designated result. My constant striving for professional development allows me to quickly acquire the necessary skills and expand the area of professional competence.
-I believe that my already acquired skills and those that I will acquire in the future would be useful not only for me, but for your company!
+Recently, I carried away with programming in the Java and I decide to develop myself in this direction.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
