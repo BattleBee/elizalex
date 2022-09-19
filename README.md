@@ -1,7 +1,7 @@
 #### Hi there! 👋  
 #### My name is Aleksandr.
 
-Recently, I carried away with programming in the Java and I decide to develop myself in this direction.
+Recently, carried away with programming in the Java.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizalex&hide=css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
