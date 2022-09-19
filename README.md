@@ -8,7 +8,7 @@ Recently, I carried away with programming in the Java and I decide to develop my
 
 <h4>You can find me here:</h4>
 
-[![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyzarov/;
+[![alt-text](https://img.shields.io/badge/-linkedin-283e4a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elyzarov)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/elizzalex)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:a.elyzarov@gmail.com)&nbsp;&nbsp;
 
